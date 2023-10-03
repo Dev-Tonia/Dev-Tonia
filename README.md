@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Dev-Tonia
-- 👀 I’m interested in mobile development using Flutter as the tool.
-- 🌱 I’m currently learning Statemanagment in flutter.
-- 💞️ I’m looking to collaborate on interesting project on mobile 
-- 📫 How to reach me on email @ogunwatonia01@gmail.com or twitter on @ogunwaanthonia
+- 👀 I’m interested in anything web development.
+- I use vue and react
+- 🌱 I’m currently learning State management in Vue.
+- 💞️ I’m looking to collaborate on an interesting project  
+- 📫 How to reach me on email @ogunwatonia01@gmail.com or Twitter on @ogunwaanthonia
 - 
 
 <!---
